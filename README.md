@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OriginalBugle
+- I'm french
 - 👀 I’m interested in cybersecurity, programmation, electronics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- And you can see my current project on my repl: https://replit.com/@OriginalBugle59
 
 <!---
 OriginalBugle/OriginalBugle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
